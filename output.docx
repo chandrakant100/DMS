@@ -1,0 +1,70 @@
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ g++ -o run tower.cpp 
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ ./run 
+Move disk 1 from rod A to rod B
+Move disk 2 from rod A to rod C
+Move disk 1 from rod B to rod C
+Move disk 3 from rod A to rod B
+Move disk 1 from rod C to rod A
+Move disk 2 from rod C to rod B
+Move disk 1 from rod A to rod B
+Move disk 4 from rod A to rod C
+Move disk 1 from rod B to rod C
+Move disk 2 from rod B to rod A
+Move disk 1 from rod C to rod A
+Move disk 3 from rod B to rod C
+Move disk 1 from rod A to rod B
+Move disk 2 from rod A to rod C
+Move disk 1 from rod B to rod C
+
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ g++ -o run gcd.cpp 
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ ./run 
+Enter the two numbers:-4
+24
+The Gcd of the two numbers 4 and 24 is 4
+
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ g++ -o run powerset.cpp 
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ ./run 
+a
+b
+ab
+c
+ac
+bc
+abc
+
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ g++ -o run euclidian.cpp 
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ ./run 
+1.41421
+
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ g++ -o run permutation.cpp 
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ ./run 
+Enter n : 3
+Enter r : 2
+Combination : 3
+Permutation : 6
+
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ g++ -o run prime.cpp 
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ ./run 
+Enter a positive integer: 7
+7 is a prime number
+
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ g++ -o run roots.cpp 
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ ./run 
+Enter coefficients a, b and c: 1
+2
+1
+Roots are real and same.
+x1 = x2 =-1
+
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ g++ -o run shortestDijkstra.cpp 
+chandrakant@chandrakant-ASUS:~/Chandrakant/DMS$ ./run 
+Vertex   Distance from Source
+0 tt 0
+1 tt 4
+2 tt 12
+3 tt 19
+4 tt 21
+5 tt 11
+6 tt 9
+7 tt 8
+8 tt 14
